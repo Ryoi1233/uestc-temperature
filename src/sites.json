@@ -18,10 +18,10 @@
     "method": "POST",
     "url": "https://jzsz.uestc.edu.cn/wxvacation/api/epidemic/monitorRegisterForReturned",
     "data": {
-      "healthCondition": "正常",
       "todayMorningTemperature": "36.5°C~36.9°C",
-      "location": "四川省成都市郫都区丹桂路",
-      "healthColor": "绿色"
+      "healthColor": "绿色",
+      "healthCondition": "正常",
+      "location": "四川省成都市郫都区丹桂路"
     },
     "description": "在校学生数据"
   },
